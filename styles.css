@@ -15,11 +15,6 @@ h2 {
   background-color: lightgrey;
 }
 
-.nav {
-  margin: 0, auto;
-  width: 50%;
-}
-
 a {
   text-decoration: none;
 }
@@ -33,4 +28,17 @@ li {
   padding: 10px;
   background-color: turquoise;
   color: black;
+}
+
+.text-under-photo {
+  display:inline-block;
+  padding: 10px;
+}
+
+.text-under-photo > ul {
+  width: 200px;
+  display: inline-block;
+  background-color: yellow;
+  padding: 0;
+  text-align: center;
 }
