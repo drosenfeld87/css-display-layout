@@ -11,8 +11,8 @@ h1 {
 
 h2 {
   color: white;
+  padding: 10px;
   background-color: lightgrey;
-  text-align: center;
 }
 
 .nav {
@@ -26,4 +26,11 @@ a {
 
 li {
   display: inline-block;
+}
+
+.title {
+  font-size: 30px;
+  padding: 10px;
+  background-color: turquoise;
+  color: black;
 }
