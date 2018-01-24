@@ -8,3 +8,22 @@ h1 {
   color: white;
   text-align: center;
 }
+
+h2 {
+  color: white;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.nav {
+  margin: 0, auto;
+  width: 50%;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  display: inline-block;
+}
