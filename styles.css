@@ -42,3 +42,20 @@ li {
   padding: 0;
   text-align: center;
 }
+
+main {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+nav {
+  text-align: center;
+}
+
+.footer {
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  font-weight: 100;
+  color: white;
+}
